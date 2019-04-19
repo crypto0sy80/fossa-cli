@@ -104,6 +104,7 @@ An _ecosystem_ is one of:
 - `gem`: RubyGems dependencies
 - `git`: `git` submodules
 - `go`: `go get` dependencies
+- `hackage`: Haskell dependencies
 - `mvn`: Maven dependencies
 - `npm`: NPM dependencies
 

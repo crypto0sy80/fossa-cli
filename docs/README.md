@@ -55,6 +55,7 @@ This document is a walk-through of getting started with the FOSSA CLI and is aim
   - [debian](integrations/debian.md#debian)
   - [golang](integrations/golang.md#go)
   - [gradle](integrations/gradle.md#gradle)
+  - [haskell](integrations/haskell.md#haskell)
   - [maven](integrations/maven.md#maven)
   - [nodejs](integrations/nodejs.md#nodejs)
   - [nuget](integrations/nuget.md#nuget-net)
